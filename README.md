@@ -12,7 +12,7 @@ Onglet athltètes
 
 ![image](https://github.com/louiswin03/JO2024_Java/assets/106116649/ecf835dd-e4fd-434d-8109-b964a210eb1e)
 
-Onglet discipline:
+Onglet disciplines:
 ![image](https://github.com/louiswin03/JO2024_Java/assets/106116649/46c3fec9-f76c-4831-8683-3735b00a4e3b)
 
 Onglet évènements:
@@ -20,6 +20,13 @@ Onglet évènements:
 
 Onglet Analyses avec génération de PDF:
 ![image](https://github.com/louiswin03/JO2024_Java/assets/106116649/ab08db95-80f5-4ed6-a985-c533f9427f57)
+[Resultats_toutes_epreuves_paris2024.pdf](https://github.com/user-attachments/files/15822567/Resultats_toutes_epreuves_paris2024.pdf)
 
-Onglet calendrier avec les évènemenst de l'onglet associé :
+
+Onglet calendrier avec les évènements affichés :
 ![image](https://github.com/louiswin03/JO2024_Java/assets/106116649/33d800ef-faa2-47ab-b4af-184e478d2aec)
+
+Onglet graphiques qui représente l'évolution des médailles:
+![image](https://github.com/louiswin03/JO2024_Java/assets/106116649/8438e73a-ec09-4551-85fe-04153b9f9332)
+
+![Uploading image.png…]()
