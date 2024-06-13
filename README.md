@@ -8,7 +8,7 @@ Page d'accueil avec 2 modes de connection visiteur et administrateur: :
 
 ![image](https://github.com/louiswin03/JO2024_Java/assets/106116649/47619c40-a2d8-4855-b8e1-2a8a38e1f869)
 
-Onglet athltètes
+Onglet athlètes
 
 ![image](https://github.com/louiswin03/JO2024_Java/assets/106116649/ecf835dd-e4fd-434d-8109-b964a210eb1e)
 
