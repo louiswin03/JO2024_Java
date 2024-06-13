@@ -20,7 +20,9 @@ Onglet évènements:
 
 Onglet Analyses avec génération de PDF:
 ![image](https://github.com/louiswin03/JO2024_Java/assets/106116649/ab08db95-80f5-4ed6-a985-c533f9427f57)
-[Resultats_toutes_epreuves_paris2024.pdf](https://github.com/user-attachments/files/15822567/Resultats_toutes_epreuves_paris2024.pdf)
+
+Exemple de PDF généré:
+[Resultats_Demie_paris2024.pdf](https://github.com/user-attachments/files/15822624/Resultats_Demie_paris2024.pdf)
 
 
 Onglet calendrier avec les évènements affichés :
