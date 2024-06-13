@@ -31,4 +31,3 @@ Onglet calendrier avec les évènements affichés :
 Onglet graphiques qui représente l'évolution des médailles:
 ![image](https://github.com/louiswin03/JO2024_Java/assets/106116649/8438e73a-ec09-4551-85fe-04153b9f9332)
 
-![Uploading image.png…]()
