@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="956ea7f6-8349-4eef-8d02-035e9368ff68" name="Changes" comment="Merge" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="backup" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hugoaslm&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hugoaslm/Paris2024.git&quot;,
+    &quot;accountId&quot;: &quot;39f32ad3-1b92-49d7-9080-b50ab6430ff9&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/fr/isep/algo/projetjo/controller/athleteController.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2efl0Svi5BsCfkDYXMUnRvmyt5R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AthleteTableView.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "JUnit.AthleteTest.executor": "Run",
+    "JUnit.CountryTest.getSilverMedals_initialState_returnsZero.executor": "Run",
+    "JUnit.athleteDAOTest (1).executor": "Run",
+    "JUnit.athleteDAOTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Paris2024-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4827586",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fr.isep.algo.projetjo.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hugo2\IdeaProjects\projetJO\src\main\resources\fr\isep\algo\projetjo\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hugo2\IdeaProjects\projetJO\src\main\resources\fr\isep\algo\projetjo\view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.isep.algo.projetjo.Main" />
+      <module name="projetJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.isep.algo.projetjo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AthleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projetJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.isep.algo.projetjo.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.isep.algo.projetjo.model" />
+      <option name="MAIN_CLASS_NAME" value="fr.isep.algo.projetjo.model.AthleteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountryTest.getSilverMedals_initialState_returnsZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projetJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.isep.algo.projetjo.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.isep.algo.projetjo.model" />
+      <option name="MAIN_CLASS_NAME" value="fr.isep.algo.projetjo.model.CountryTest" />
+      <option name="METHOD_NAME" value="getSilverMedals_initialState_returnsZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="athleteDAOTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projetJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.isep.algo.projetjo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.isep.algo.projetjo.dao" />
+      <option name="MAIN_CLASS_NAME" value="fr.isep.algo.projetjo.dao.athleteDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="athleteDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projetJO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="athleteDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CountryTest.getSilverMedals_initialState_returnsZero" />
+        <item itemvalue="JUnit.AthleteTest" />
+        <item itemvalue="JUnit.athleteDAOTest (1)" />
+        <item itemvalue="JUnit.athleteDAOTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="956ea7f6-8349-4eef-8d02-035e9368ff68" name="Changes" comment="" />
+      <created>1712303291411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712303291411</updated>
+      <workItem from="1712303292480" duration="3003000" />
+      <workItem from="1712309999015" duration="685000" />
+      <workItem from="1712416389764" duration="1633000" />
+      <workItem from="1712418037418" duration="54000" />
+      <workItem from="1712418124973" duration="37000" />
+      <workItem from="1712486328129" duration="2840000" />
+      <workItem from="1712497560042" duration="4281000" />
+      <workItem from="1712503331599" duration="397000" />
+      <workItem from="1712514378317" duration="575000" />
+      <workItem from="1712518543204" duration="261000" />
+      <workItem from="1712571612511" duration="2327000" />
+      <workItem from="1712575569546" duration="8356000" />
+      <workItem from="1712601853062" duration="3217000" />
+      <workItem from="1712655754455" duration="4575000" />
+      <workItem from="1712661927850" duration="5252000" />
+      <workItem from="1712672052782" duration="2477000" />
+      <workItem from="1712831060394" duration="17000" />
+      <workItem from="1713349356445" duration="847000" />
+      <workItem from="1713449163263" duration="1034000" />
+      <workItem from="1713884522103" duration="162000" />
+      <workItem from="1713969853814" duration="86000" />
+      <workItem from="1714035169525" duration="1164000" />
+      <workItem from="1714117119777" duration="4319000" />
+      <workItem from="1714722688768" duration="23000" />
+      <workItem from="1715255405437" duration="5183000" />
+      <workItem from="1715274520839" duration="474000" />
+      <workItem from="1715275014992" duration="34000" />
+      <workItem from="1715333379433" duration="4279000" />
+      <workItem from="1715342584018" duration="40000" />
+      <workItem from="1715342729690" duration="1663000" />
+      <workItem from="1715344424323" duration="5462000" />
+      <workItem from="1715423189601" duration="1053000" />
+      <workItem from="1715425608995" duration="39000" />
+      <workItem from="1715444789576" duration="696000" />
+      <workItem from="1715506918531" duration="5793000" />
+      <workItem from="1715512846521" duration="12000" />
+      <workItem from="1715515338334" duration="1708000" />
+      <workItem from="1715585569561" duration="678000" />
+      <workItem from="1715609643982" duration="633000" />
+      <workItem from="1715927848441" duration="1689000" />
+      <workItem from="1716570279875" duration="819000" />
+      <workItem from="1716573195629" duration="381000" />
+      <workItem from="1716577351190" duration="6637000" />
+      <workItem from="1716584055032" duration="34000" />
+      <workItem from="1716627654522" duration="15271000" />
+      <workItem from="1716727082659" duration="106000" />
+      <workItem from="1716729456483" duration="3548000" />
+      <workItem from="1716974683282" duration="1327000" />
+      <workItem from="1716978734213" duration="2029000" />
+      <workItem from="1716991717178" duration="4468000" />
+      <workItem from="1717012593504" duration="6366000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1712304360201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712304360202</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SQL Communication">
+      <option name="closed" value="true" />
+      <created>1712310083915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712310083915</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1712674311165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712674311165</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ajout connexion et session">
+      <option name="closed" value="true" />
+      <created>1715259282601</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715259282601</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ajout connexion et session">
+      <option name="closed" value="true" />
+      <created>1715260069508</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715260069508</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ajout connexion et session">
+      <option name="closed" value="true" />
+      <created>1715337570121</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715337570121</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Modifs athlètes">
+      <option name="closed" value="true" />
+      <created>1715425639044</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715425639044</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ajout des events">
+      <option name="closed" value="true" />
+      <created>1716542392473</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716542392473</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ajout des events">
+      <option name="closed" value="true" />
+      <created>1716546515304</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716546515304</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ajout des events">
+      <option name="closed" value="true" />
+      <created>1716584078135</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716584078135</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge">
+      <option name="closed" value="true" />
+      <created>1716729574948</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716729574948</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge">
+      <option name="closed" value="true" />
+      <created>1716731011077</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716731011077</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge">
+      <option name="closed" value="true" />
+      <created>1716732089519</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716732089519</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge">
+      <option name="closed" value="true" />
+      <created>1716732959013</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716732959013</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge">
+      <option name="closed" value="true" />
+      <created>1716837513390</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716837513390</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge">
+      <option name="closed" value="true" />
+      <created>1716838139392</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716838139392</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge">
+      <option name="closed" value="true" />
+      <created>1716912983143</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716912983143</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Ajout graphiques">
+      <option name="closed" value="true" />
+      <created>1716980723400</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716980723400</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Ajout graphiques">
+      <option name="closed" value="true" />
+      <created>1716995148924</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1716995148924</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Ajout graphiques">
+      <option name="closed" value="true" />
+      <created>1716996020324</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1716996020324</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Ajout graphiques">
+      <option name="closed" value="true" />
+      <created>1717018506624</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1717018506624</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Merge">
+      <option name="closed" value="true" />
+      <created>1717075597430</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1717075597430</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/backup2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="SQL Communication" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="Ajout connexion et session" />
+    <MESSAGE value="Modifs athlètes" />
+    <MESSAGE value="Ajout des events" />
+    <MESSAGE value="Ajout graphiques" />
+    <MESSAGE value="Merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge" />
+  </component>
+</project>
